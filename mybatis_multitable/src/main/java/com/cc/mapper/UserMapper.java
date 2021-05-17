@@ -11,5 +11,8 @@ public interface UserMapper {
     public List<User> findAll2();
     public List<User> findById();
 
+    public List<User> find();
+    public List<User> find123123();
+    public List<User> find1231223();
 
 }
