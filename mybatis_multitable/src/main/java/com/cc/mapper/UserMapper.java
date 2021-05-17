@@ -16,5 +16,9 @@ public interface UserMapper {
     public List<User> find1231223();
     
      public List<User> fin();
+    public List<User> sd123();
+    public List<User> sda123();
+
+
 
 }
